@@ -33,6 +33,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Jenkins" width="26px" src="https://devopseye.files.wordpress.com/2017/05/jenkins-ci_512.png"/>
 <img align="left" alt="Docker" width="26px" src="https://www.sumologic.com/wp-content/uploads/2015/11/docker.png"/>
+<br>
+<br>
 
 * Git
 * MySQL Workbench: GUI Application for SQL Server
@@ -50,23 +52,22 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 <br>
-
+<img align="left" alt="SpringBoot" width="26px" src="https://smarttechies.files.wordpress.com/2017/06/spring-boot-logo.png?w=605"/>
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/480px-Angular_full_color_logo.svg.png"/>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br>
+<br>
 * Backend 
   * SpringBoot
-<img align="left" alt="SpringBoot" width="26px" src="https://smarttechies.files.wordpress.com/2017/06/spring-boot-logo.png?w=605"/>
 * Frontend  
   * Angular
-<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/480px-Angular_full_color_logo.svg.png"/>
   * React
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
 ***
 ### My Labtop Environment
-* Operating System: ubuntu
 <img align="left" alt="Ubuntu" width="30px" src="https://openboard.ch/images/Ubuntu-logo.png"/>
-
-* Desktop Environment: kde-plasma
 <img align="left" alt="kde plasma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/1200px-KDE_logo.svg.png"/>
-* Shell: zsh
+* Operating System: ubuntu
+* Desktop Environment: kde-plasma
+* Terminal: tmux + zsh
 
 #### [Sharing My Environment Setup]()
