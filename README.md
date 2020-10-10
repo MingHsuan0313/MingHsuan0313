@@ -10,17 +10,19 @@
 
 ***
 ### Languages
-* Java
 <img align="left" alt="Java" width="26px" src="https://static.techspot.com/images2/downloads/topdownload/2014/05/Java.png"/>
-* Typescript
 <img align="left" alt="Typescript" width="26px" src="https://s3.amazonaws.com/ionic-marketplace/typescript-starter/icon.png"/>
-* Python
 <img align="left" alt="Python" width="26px" src="https://res.cloudinary.com/teepublic/image/private/s--TwCcIoc_--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1520050660/production/designs/2416585_0.jpg"/>
-* Shell Script
 <img align="left" alt="JavaScript" width="26px" src="https://www.twitchinstalls.com/img/terminal.svg"/>
-
-* SQL
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<br>
+<br>
+
+* Java 
+* Typescript
+* Python
+* Shell Script
+* SQL
 
 ### Tools
 * Git
