@@ -57,6 +57,7 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br>
 <br>
+
 * Backend 
   * SpringBoot
 * Frontend  
@@ -65,10 +66,11 @@
   
 ***
 ### My Labtop Environment
-<img align="left" alt="Ubuntu" width="30px" src="https://openboard.ch/images/Ubuntu-logo.png"/>
+<img align="left" alt="Ubuntu" width="26px" src="https://openboard.ch/images/Ubuntu-logo.png"/>
 <img align="left" alt="kde plasma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/1200px-KDE_logo.svg.png"/>
 <br>
 <br>
+
 * Operating System: ubuntu
 * Desktop Environment: kde-plasma
 * Terminal: tmux + zsh
