@@ -23,21 +23,25 @@
 * Python
 * Shell Script
 * SQL
+***
 
 ### Tools
-* Git
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-* MySQL Workbench: GUI Application for SQL Server
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-* Drawio: Editor for UML and System Architecture
 <img align="left" alt="Drawio" width="26px" src="https://yt3.ggpht.com/a/AGF-l78fkfku8iONid0H6dHhsozkWjNA_X0MV5Uiog=s900-mo-c-c0xffffffff-rj-k-no"/>
-* Insomnia: Entpoint Testing Tool
 <img align="left" alt="SpringBoot" width="26px" src="https://res.cloudinary.com/canonical/image/fetch/q_auto,f_auto,w_560/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png"/>
-* <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code + Vim: Using VSCode vim plugin to use vim keybinding
-* Jenkins
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Jenkins" width="26px" src="https://devopseye.files.wordpress.com/2017/05/jenkins-ci_512.png"/>
-* Docker
 <img align="left" alt="Docker" width="26px" src="https://www.sumologic.com/wp-content/uploads/2015/11/docker.png"/>
+
+* Git
+* MySQL Workbench: GUI Application for SQL Server
+* Drawio: Editor for UML and System Architecture
+* Insomnia: Entpoint Testing Tool
+* Visual Studio Code + Vim: Using VSCode vim plugin to use vim keybinding
+* Jenkins
+* Docker
+***
 
 ### Web Programming
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
