@@ -74,4 +74,4 @@
 * Desktop Environment: kde-plasma
 * Terminal: tmux + zsh
 
-#### [Sharing My Environment Setup]()
+#### [Sharing My Environment Setup](https://hackmd.io/ucllQYzyQRy3sd2LLMlj1A)
