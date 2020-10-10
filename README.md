@@ -53,9 +53,9 @@
 <br>
 <br>
 
-<img align="left" alt="SpringBoot" width="26px" src="https://smarttechies.files.wordpress.com/2017/06/spring-boot-logo.png?w=605"/>
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/480px-Angular_full_color_logo.svg.png"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="SpringBoot" width="26px" src="https://smarttechies.files.wordpress.com/2017/06/spring-boot-logo.png?w=605"/>
 
 <br>
 <br>
