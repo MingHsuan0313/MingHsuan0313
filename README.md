@@ -19,7 +19,7 @@
 <br>
 
 * Java 
-* Typescript
+* TypeScript
 * Python
 * Shell Script
 * SQL
@@ -39,7 +39,7 @@
 * Git
 * MySQL Workbench: GUI Application for SQL Server
 * Drawio: Editor for UML and System Architecture
-* Insomnia: Entpoint Testing Tool
+* Insomnia: Endpoint Testing Tool
 * Visual Studio Code + Vim: Using VSCode vim plugin to use vim keybinding
 * Jenkins
 * Docker
@@ -57,9 +57,9 @@
 <br>
 <br>
 
-* Backend 
+* Backend Framework
   * SpringBoot
-* Frontend  
+* Frontend Framework 
   * Angular
   * React
   
