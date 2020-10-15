@@ -6,7 +6,7 @@
 - I want to be a full stack programmer 
 - I usually use OOP and UML to design my project
 - I am intrested in system architecutre design
-- I always want increase my productivity by using lots of tool and customize my developing tool, I will introduce those things later
+- I always want to increase my productivity by using lots of tool and customize my development environment, I will share my environment later
 
 ***
 ### Languages
