@@ -5,8 +5,8 @@
 
 - I want to be a full stack programmer 
 - I usually use OOP and UML to design my project
-- I am intrested in system architecutre design
-- I always want to increase my productivity by using lots of tool and customize my development environment, I will share my environment later
+- I am intrested in system architecuter design
+- I always want to increase my productivity by using lots of tools and customize my development environment, I will share my environment below
 
 ***
 ### Languages
@@ -40,7 +40,7 @@
 * MySQL Workbench: GUI Application for SQL Server
 * Drawio: Editor for UML and System Architecture
 * Insomnia: Endpoint Testing Tool
-* Visual Studio Code + Vim: Using VSCode vim plugin to use vim keybinding
+* Visual Studio Code + Vim: Applied VSCode vim plugin to use vim keybinding
 * Jenkins
 * Docker
 ***
