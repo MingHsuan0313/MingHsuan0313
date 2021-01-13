@@ -3,10 +3,10 @@
 
 ## I'm a Graduate Student in Taiwan
 
-- I want to be a full stack programmer 
-- I usually use OOP and UML to design my project
-- I am intrested in system architecuter design
-- I always want to increase my productivity by using lots of tools and customize my development environment, I will share my environment below
+- Working hard to become a full stack programmer.
+- Using OOP and UML to design my project.
+- Intrested in system architecuter design.
+- Using different tools to increase productivity and customize development environment. Personal environment can be found as below.
 
 ***
 ### Languages
