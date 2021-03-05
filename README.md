@@ -39,7 +39,8 @@
 * Git
 * MySQL Workbench: GUI Application for SQL Server
 * Drawio: Editor for UML and System Architecture
-* Insomnia: Endpoint Testing Tool
+* Insomnia Core: Endpoint Testing Tool
+* Insomnia Designer: Restful API Documentation
 * Visual Studio Code + Vim: Applied VSCode vim plugin to use vim keybinding
 * Jenkins
 * Docker
