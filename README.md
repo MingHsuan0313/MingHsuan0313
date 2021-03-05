@@ -70,9 +70,9 @@
 <img align="left" alt="kde plasma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KDE_logo.svg/1200px-KDE_logo.svg.png"/>
 <br>
 <br>
-
-* Operating System: ubuntu
-* Desktop Environment: kde-plasma
-* Terminal: tmux + zsh
+* Operating System: Linux (5.4.0-66-generic)
+* Distribution: Ubuntu (20.04)
+* Desktop Environment: KDE-Plasma (5.18.5)
+* Terminal: Tmux + Zsh (Oh My Zsh)
 
 #### [Sharing My Environment Setup](https://hackmd.io/ucllQYzyQRy3sd2LLMlj1A)
